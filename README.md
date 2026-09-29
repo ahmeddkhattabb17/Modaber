@@ -2,7 +2,7 @@
 
 **Modaber** is a financial dashboard concept designed to help users organize budgets, monitor spending, and understand their financial activity through a clear dashboard interface.
 
-## ✨ Features
+## Features
 - Budget tracking and management
 - Financial overview dashboard
 - Account and transaction presentation
@@ -11,21 +11,21 @@
 - Responsive layout
 - Arabic-first interface direction
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
 - Chart/dashboard UI patterns
 
-## 📁 Structure
+## Structure
 The project is organized around the main dashboard page and its supporting frontend assets.
 
-## 🚀 Run Locally
+## Run Locally
 Open the main HTML file in a browser or serve the project with a local static server.
 
-## 🎯 Portfolio Focus
+## Portfolio Focus
 Modaber demonstrates dashboard composition, information hierarchy, financial UI patterns, responsive cards, and RTL-friendly interface design.
 
-## 👤 Author
+## Author
 Ahmed Khattab — Frontend Developer
